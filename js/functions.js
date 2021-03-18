@@ -76,3 +76,9 @@ function getAllPavirsiaiPlotas(f_ilgis, f_plotis, f_aukstis) {
 
 let kambarys1Pavirsiai = getAllPavirsiaiPlotas(10, 4, 3);
 console.log("kambarys1Pavirsiai", kambarys1Pavirsiai);
+
+let kambarys2Pavirsiai = getAllPavirsiaiPlotas(11, 10, 4);
+console.log("kambarys2Pavirsiai", kambarys2Pavirsiai);
+
+let kambarys3Pavirsiai = getAllPavirsiaiPlotas(20, 5, 4.5);
+console.log("kambarys3Pavirsiai", kambarys3Pavirsiai);
